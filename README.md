@@ -1,7 +1,7 @@
 # 0xCrackz.dll-main
 My main crack sharing network
--
 
+-
 
 I created a custom Google search engine for software p*racy only on safe websites like diakov, downloadha etc...
 -
